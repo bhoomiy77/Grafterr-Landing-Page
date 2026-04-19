@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "headlinePrefix": "The best",
+    "headlineGradient": "technology provider",
+    "subheadline": "Grow your restaurant business with us",
+    "cta": "Get Started"
+  },
+  "features": {
+    "title": "Solutions to",
+    "titleAccent": "grow your business",
+    "subtitle": "Powerful tools for modern restaurants",
+    "products": [
+      {
+        "title": "Point of Sale",
+        "desc": "Manage billing efficiently",
+        "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df"
+      },
+      {
+        "title": "Self Service",
+        "desc": "Reduce waiting time",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d"
+      },
+      {
+        "title": "Kitchen Management",
+        "desc": "Streamline kitchen operations",
+        "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba"
+      }
+    ]
+  }
+}
